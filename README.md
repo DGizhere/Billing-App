@@ -22,8 +22,8 @@ A simple and efficient Billing Application built with Python (PyQt5) and SQLite 
 
 - Clone the repository:
 
-*git clone https://github.com/dgizhere/billing-app.git
-cd billing-app*
+***git clone https://github.com/dgizhere/billing-app.git
+cd billing-app***
 
 ## Install dependencies:
 
