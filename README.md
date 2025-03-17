@@ -53,13 +53,13 @@ cd billing-app***
 ├── README.md        # Project documentation
 ├── requirements.txt # Dependencies 
 
-Issues & Contributions 🤝
+## Issues & Contributions 🤝
 
 Found a bug? Report it under Issues
 
 Want to contribute? Fork the repo and submit a PR!
 
-License 📜
+## License 📜
 
 This project is licensed under the MIT License.
 
