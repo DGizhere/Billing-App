@@ -1,4 +1,4 @@
-Billing App
+## Billing App
 
 A simple and efficient Billing Application built with Python (PyQt5) and SQLite to manage customer invoices and export billing data to CSV.
 
